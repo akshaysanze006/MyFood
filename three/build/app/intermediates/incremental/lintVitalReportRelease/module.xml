@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/avan/StudioProjects/three/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.0"
+    buildFolder="/Users/avan/StudioProjects/three/build/app"
+    bootClassPath="/Users/avan/Downloads/Ava/android/platforms/android-33/android.jar:/Users/avan/Downloads/Ava/android/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

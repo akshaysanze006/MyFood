@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "843102973143",
+    "firebase_url": "https://loginwithusernamefirebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginwithusernamefirebase",
+    "storage_bucket": "loginwithusernamefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843102973143:android:5df1878a0ddf0bb8711492",
+        "android_client_info": {
+          "package_name": "com.example.loginwithusername"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843102973143-ha98qk58fnnotu65rllra5t7gr9emjbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginwithusername",
+            "certificate_hash": "287189f1a9a63232b3a7d2f9dd5aa69d08daca25"
+          }
+        },
+        {
+          "client_id": "843102973143-4jc7qqv3tpo8eq5103u2l6cu5je1v5uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iOhpE0xgnYpmqcphyHh-9XNM7MWY_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843102973143-4jc7qqv3tpo8eq5103u2l6cu5je1v5uk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843102973143-j809fvfp57eig9tdh83a69qiq4c0dqdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.three"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843102973143:android:23f5f16bacd7aed0711492",
+        "android_client_info": {
+          "package_name": "com.example.myg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843102973143-4p7oerh1lbgbbm5jd0d5l6ul08e41fqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myg",
+            "certificate_hash": "cfb1611193614ad922bf27b8e0ea29a1abb7f735"
+          }
+        },
+        {
+          "client_id": "843102973143-4jc7qqv3tpo8eq5103u2l6cu5je1v5uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iOhpE0xgnYpmqcphyHh-9XNM7MWY_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843102973143-4jc7qqv3tpo8eq5103u2l6cu5je1v5uk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843102973143-j809fvfp57eig9tdh83a69qiq4c0dqdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.three"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843102973143:android:7734d3a6ed4cadbf711492",
+        "android_client_info": {
+          "package_name": "com.example.three"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843102973143-4jc7qqv3tpo8eq5103u2l6cu5je1v5uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iOhpE0xgnYpmqcphyHh-9XNM7MWY_Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843102973143-4jc7qqv3tpo8eq5103u2l6cu5je1v5uk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843102973143-j809fvfp57eig9tdh83a69qiq4c0dqdk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.three"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

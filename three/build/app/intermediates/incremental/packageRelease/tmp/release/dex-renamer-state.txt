@@ -1,0 +1,4 @@
+#Wed Oct 12 17:03:52 IST 2022
+base.0=/Users/avan/StudioProjects/three/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
